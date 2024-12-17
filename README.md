@@ -1,4 +1,4 @@
-# Encontre o caminho mais curto para sair do labirinto 🏃‍♂️🏃🏽‍♀️
+# Encontre o caminho mais curto para sair do labirinto 🏃🏽‍♀️
 Projeto desenvolvido na matéria de Inteligência Artificial.
 
 ## Especificação do projeto: 
